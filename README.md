@@ -71,11 +71,9 @@ UNITYWEBVIEW_ANDROID_ENABLE_MICROPHONE
 ```
 
 ### Sample Scene
-- Sample scenes are located in the following directories
 ```
 Assets\Scenes\SampleScene.unity
 ```
-- Build and run the sample scene to Oculus Quest 2
 
 ## Link
 - [Source code of the java plugin used](https://github.com/TLabAltoh/TLabWebViewPlugin.git)
