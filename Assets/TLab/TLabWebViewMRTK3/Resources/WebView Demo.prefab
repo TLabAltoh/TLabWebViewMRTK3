@@ -1535,6 +1535,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_keyborad: {fileID: 3474797448274661749}
   m_activeOnAwake: 1
+  m_onFocus:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onEnterPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onTabPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onShiftPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onSpacePressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onBackSpacePressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onSymbolPressed:
+    m_PersistentCalls:
+      m_Calls: []
+  m_onKeyPressed:
+    m_PersistentCalls:
+      m_Calls: []
   m_webview: {fileID: 2955832643806999531}
 --- !u!114 &2955832643806999528
 MonoBehaviour:
