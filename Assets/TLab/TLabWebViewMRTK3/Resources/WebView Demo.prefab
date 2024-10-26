@@ -1586,7 +1586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_webview: {fileID: 2955832643806999531}
-  m_keyborad: {fileID: 8051063089559699688}
+  m_keyborad: {fileID: 3474797448274661749}
 --- !u!1 &3945256824504080965
 GameObject:
   m_ObjectHideFlags: 0
@@ -2998,17 +2998,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4449721481549372445, guid: 58607dc0d897b2b46a8496ffaa5fa6a1, type: 3}
   m_PrefabInstance: {fileID: 1006664205148130664}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8051063089559699688}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 30781e215bec0be449adcdfe5d2a9a5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &8051063089559699688 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7080640460636786048, guid: 58607dc0d897b2b46a8496ffaa5fa6a1, type: 3}
-  m_PrefabInstance: {fileID: 1006664205148130664}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1416646876627503698
 PrefabInstance:
   m_ObjectHideFlags: 0
