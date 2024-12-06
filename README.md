@@ -39,5 +39,5 @@ Please see the setup section [here](https://github.com/TLabAltoh/TLabWebView?tab
 
 ### Sample Scene
 ```
-Assets\Scenes\SampleScene.unity
+/Assets/Scenes/SampleScene.unity
 ```
