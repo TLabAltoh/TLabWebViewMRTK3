@@ -7,6 +7,14 @@ Sample project for using [```TLabWebView```](https://github.com/TLabAltoh/TLabWe
 > [!NOTE]
 > This is a project created for Oculus Quest 2 using MRTK3, but it will not work with HoloLens. This is because the WebView used is an Oculus (or Android) dependent system.
 
+> [!WARNING]
+> This project uses `HardwareBuffer` as the default `CaptureMode` for WebView. This `HardwareBuffer` option is confirmed to work with Oculus Quest, but may not work with some other devices (e.g., the WebView screen may go blank). In that case, change the `CaptureMode` from `HardwareBuffer` to `ByteBuffer`.
+>
+> <details>
+> <img src="Media/image.0.png" width="256"></img>  
+> <img src="Media/image.1.png" width="256"></img>
+> </details>
+
 ## ScreenShot
 <img src="Media/screenshot.gif" width="512"></img>
 
